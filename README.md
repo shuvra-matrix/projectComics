@@ -1,0 +1,3 @@
+HI in this project i use php,mysql to build this application. any one, who register in this application will get random xkcd commics every five minutes. every times when a users register there data store in an encripted format in database. useing phpmailer ever user got an email where they found some random commic content and some images. also user can unsubscribe this application service. this unsubscribe link present in every mail . using cron job i run my config.py script every 5 minutes for that user got random comics in every 5 minutes. to host this scervice i use Heroku plartform also use cron-job.org to schedule my application.
+
+# live demo url : https://projectcomics.herokuapp.com
